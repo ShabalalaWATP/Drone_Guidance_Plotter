@@ -1,12 +1,12 @@
 # Drone_Guidance_Plotter
 
-##Drone Guidance Plotter
+## Drone Guidance Plotter
 A Python program that plots and validates drone routes based on coordinate instructions from input files.
 
-##Description
+## Description
 This program reads route instruction files and plots drone paths on a 12x12 grid. It validates routes to ensure they stay within the grid boundaries and provides visual representation of the path along with coordinates.
 
-##Features
+## Features
 
 Plots routes on a 12x12 grid
 Validates route boundaries
@@ -20,7 +20,7 @@ Visual grid representation with:
 
 
 
-##Usage
+## Usage
 
 Place route instruction files in the same directory as the program
 Run the program:
@@ -29,7 +29,7 @@ Copypython drone_guidance.py
 Enter route file name when prompted (e.g., "Route001.txt")
 Enter "STOP" to exit the program
 
-##Route File Format
+## Route File Format
 Route files should contain:
 
 Line 1: X-Coordinate of start position
@@ -45,19 +45,19 @@ W
 E
 N
 
-##Sample Files
+## Sample Files
 Three test route files are included:
 
 Route001.txt - Valid route example
 Route002.txt - Another valid route example
 Route003.txt - Invalid route example (goes outside grid)
 
-##Requirements
+## Requirements
 
 Python 3.x
 No additional libraries required
 
-##Error Handling
+## Error Handling
 The program handles several error cases:
 
 Invalid file names
