@@ -29,20 +29,23 @@ This program reads route instruction files and plots drone paths on a 12x12 grid
   4.    Enter "STOP" to exit the program
 
 ### Route File Format
+
 Route files should contain:
 
-Line 1: X-Coordinate of start position
-Line 2: Y-Coordinate of start position
-Following lines: Direction instructions (N, S, E, or W)
+- Line 1: X-Coordinate of start position
+- Line 2: Y-Coordinate of start position
+- Following lines: Direction instructions (N, S, E, or W)
 
 Example route file:
-Copy3
-12
-S
-S
-W
-E
-N
+
+>     Copy3
+>     12
+>     S
+>     S
+>     W
+>     E
+>     N
+
 
 ### Sample Files
 Three test route files are included:
