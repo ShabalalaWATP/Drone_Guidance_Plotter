@@ -20,9 +20,9 @@ This program reads route instruction files and plots drone paths on a 12x12 grid
 
 ### Usage
 
-Place route instruction files in the same directory as the program
-Run the program:
-Copypython drone_guidance.py
+  1. Place route instruction files in the same directory as the program
+  2. Run the program:
+    > Copypython drone_guidance.py
 
 Enter route file name when prompted (e.g., "Route001.txt")
 Enter "STOP" to exit the program
