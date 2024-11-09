@@ -38,7 +38,7 @@ Route files should contain:
 
 Example route file:
 
->     Copy3
+>     3
 >     12
 >     S
 >     S
