@@ -1,8 +1,8 @@
 # Drone route plotting program
-# Plots routes on a 12x12 grid based on input files
+# Plots routes on a 12x12 grid based on input files 
 
 import sys
-import os.path
+import os.path 
 
 def read_route_file(filename):
     # Reads the route file and returns coordinates and directions
@@ -104,7 +104,6 @@ def main():
             continue
             
         start_x, start_y, directions = result
-        
         grid, path = validate_and_plot_route(start_x, start_y, directions)
         
         if grid is None:
