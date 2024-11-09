@@ -57,12 +57,13 @@ Three test route files are included:
 
 ### Requirements
 
-Python 3.x
-No additional libraries required
+- Python 3.x
+- No additional libraries required
 
 ### Error Handling
+
 The program handles several error cases:
 
-Invalid file names
-Routes that would go outside the grid
-Invalid direction instructions
+- Invalid file names
+- Routes that would go outside the grid
+- Invalid direction instructions
