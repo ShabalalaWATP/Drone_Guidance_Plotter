@@ -3,7 +3,7 @@
 ## Drone Guidance Plotter
 A Python program that plots and validates drone routes based on coordinate instructions from input files.
 
-## Description
+### Description
 This program reads route instruction files and plots drone paths on a 12x12 grid. It validates routes to ensure they stay within the grid boundaries and provides visual representation of the path along with coordinates.
 
 ## Features
