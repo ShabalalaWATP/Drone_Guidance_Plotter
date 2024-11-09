@@ -48,11 +48,12 @@ Example route file:
 
 
 ### Sample Files
+
 Three test route files are included:
 
-Route001.txt - Valid route example
-Route002.txt - Another valid route example
-Route003.txt - Invalid route example (goes outside grid)
+- Route001.txt - Valid route example
+- Route002.txt - Another valid route example
+- Route003.txt - Invalid route example (goes outside grid)
 
 ### Requirements
 
