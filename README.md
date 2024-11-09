@@ -11,11 +11,10 @@ This program reads route instruction files and plots drone paths on a 12x12 grid
 - Validates route boundaries
 - Displays route coordinates
 - Visual grid representation with:
-
-'S' marking start position
-'+' showing the route path
-'E' marking end position
-'.' for empty grid spaces
+  -'S' marking start position
+  - '+' showing the route path
+  - 'E' marking end position
+  - '.' for empty grid spaces
 
 
 
